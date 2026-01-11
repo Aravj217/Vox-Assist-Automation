@@ -36,6 +36,15 @@ Vox Assist automates the complete feedback-handling lifecycle:
 
 ---
 
+## 🌍 Use in Real World :
+    
+   VoxAssit can collabrate with any multi level platform for thier query resolving problem.
+
+
+---
+
+
+
 ## 🏗 System Architecture
 
 ```text
@@ -57,3 +66,5 @@ User Feedback Form
  Auto Reply (≤ 5 minutes)
         ↓
  Team Notification (Query Solved)
+
+ 
