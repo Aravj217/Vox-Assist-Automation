@@ -43,6 +43,13 @@ Vox Assist automates the complete feedback-handling lifecycle:
 
 ---
 
+## 🌐 Deployment
+
+The application is deployed on Vercel and can be accessed here:
+
+👉 https://aravj217.github.io/Vox-Assist-Automation/
+
+---
 
 
 ## 🏗 System Architecture
